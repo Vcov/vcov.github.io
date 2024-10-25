@@ -1,0 +1,19 @@
+body {
+  background-image: url('papiez.gif');
+  background-position: center;
+  background-size: fit;
+
+}
+
+h1 {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 64px;
+  -webkit-text-stroke: 0.1px black;
+}
+
+#papiez {
+ margin: 200px, 0, 150px, 0;
+ width: 500px;
+}
